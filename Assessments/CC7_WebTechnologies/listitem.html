@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>List Items</title>
+   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+   
+</head>
+<body>
+    <ul>
+        <li>CSHARP</li>
+        <li>SQL</li>
+        <li>ADO</li>
+    </ul>
+    <script>
+        $(document).ready(function() {
+            $('li').each(function(index) {
+                $(this).prepend('<span class="idx">' + index + ' </span>');
+            });
+        });
+    </script>
+</body>
+</html>
