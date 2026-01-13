@@ -81,5 +81,3 @@ C:\Users\keerthib\Desktop\infinite\Assessments\CC8\MVC_Movies\MVC_Movies\obj\Deb
 C:\Users\keerthib\Desktop\infinite\Assessments\CC8\MVC_Movies\MVC_Movies\obj\Debug\MVC_Movies.csproj.Up2Date
 C:\Users\keerthib\Desktop\infinite\Assessments\CC8\MVC_Movies\MVC_Movies\obj\Debug\MVC_Movies.dll
 C:\Users\keerthib\Desktop\infinite\Assessments\CC8\MVC_Movies\MVC_Movies\obj\Debug\MVC_Movies.pdb
-C:\Users\keerthib\Desktop\infinite\Assessments\CC8\MVC_Movies\MVC_Movies\obj\Debug\MVC_Movies.Migrations.InitialCreate.resources
-C:\Users\keerthib\Desktop\infinite\Assessments\CC8\MVC_Movies\MVC_Movies\obj\Debug\MVC_Movies.csproj.GenerateResource.cache

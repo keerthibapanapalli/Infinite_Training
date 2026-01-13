@@ -1,8 +1,0 @@
-C:\practice_sessions\week3test\EmployeeRecord\EmployeeRecord\obj\Debug\EmployeeRecord.csproj.AssemblyReference.cache
-C:\practice_sessions\week3test\EmployeeRecord\EmployeeRecord\obj\Debug\EmployeeRecord.csproj.CoreCompileInputs.cache
-C:\practice_sessions\week3test\EmployeeRecord\EmployeeRecord\bin\Debug\EmployeeRecord.exe.config
-C:\practice_sessions\week3test\EmployeeRecord\EmployeeRecord\bin\Debug\EmployeeRecord.exe
-C:\practice_sessions\week3test\EmployeeRecord\EmployeeRecord\bin\Debug\EmployeeRecord.pdb
-C:\practice_sessions\week3test\EmployeeRecord\EmployeeRecord\obj\Debug\EmployeeRecord.exe
-C:\practice_sessions\week3test\EmployeeRecord\EmployeeRecord\obj\Debug\EmployeeRecord.pdb
-C:\practice_sessions\week3test\EmployeeRecord\EmployeeRecord\obj\Debug\EmployeeRecord.exe.config
