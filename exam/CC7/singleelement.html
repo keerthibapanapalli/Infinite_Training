@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Single Element</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: #f9f9f9;
+            padding: 40px;
+            text-align: center;
+        }
+
+        h2 {
+            color: #222;
+            margin-bottom: 20px;
+        }
+
+        ul#items {
+            list-style: none;
+            padding: 0;
+            margin: 0 auto;
+            max-width: 250px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+
+        ul#items li {
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+            cursor: pointer;
+            background: 0.3s;
+        }
+
+        ul#items li:last-child {
+            border-bottom: none;
+        }
+
+        ul#items li:hover {
+            background: #e6f7ff;
+        }
+
+        p {
+            font-size: 18px;
+            margin-top: 20px;
+        }
+
+        #output {
+            color: #2394f1;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Click item</h2>
+
+    <ul id="items">
+        <li>CSHARP</li>
+        <li>SQL</li>
+        <li>ADO</li>
+    </ul>
+
+    <p><strong>Item:</strong> <span id="output"></span></p>
+
+    <script>
+        $("#items li").click(function () {
+            $("#output").text($(this).text());
+        });
+    </script>
+
+</body>
+</html>

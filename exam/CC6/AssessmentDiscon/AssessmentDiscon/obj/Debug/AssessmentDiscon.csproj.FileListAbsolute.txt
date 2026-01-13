@@ -1,0 +1,8 @@
+C:\practice_sessions\Ado\AssessmentDiscon\AssessmentDiscon\obj\Debug\AssessmentDiscon.csproj.AssemblyReference.cache
+C:\practice_sessions\Ado\AssessmentDiscon\AssessmentDiscon\obj\Debug\AssessmentDiscon.csproj.CoreCompileInputs.cache
+C:\practice_sessions\Ado\AssessmentDiscon\AssessmentDiscon\bin\Debug\AssessmentDiscon.exe.config
+C:\practice_sessions\Ado\AssessmentDiscon\AssessmentDiscon\bin\Debug\AssessmentDiscon.exe
+C:\practice_sessions\Ado\AssessmentDiscon\AssessmentDiscon\bin\Debug\AssessmentDiscon.pdb
+C:\practice_sessions\Ado\AssessmentDiscon\AssessmentDiscon\obj\Debug\AssessmentDiscon.exe
+C:\practice_sessions\Ado\AssessmentDiscon\AssessmentDiscon\obj\Debug\AssessmentDiscon.pdb
+C:\practice_sessions\Ado\AssessmentDiscon\AssessmentDiscon\obj\Debug\AssessmentDiscon.exe.config

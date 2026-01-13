@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>change input</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+  <h2>Type here</h2>
+
+  <input id="userinput" type="text"/>
+  <div id="msg"></div>
+
+  <script>
+    $(function () {
+      $('#userinput').on('change', function () {
+        $('#msg').append('<p>Changed as: "' + this.value + '"</p>');
+      });
+    });
+  </script>
+</body>
+</html>

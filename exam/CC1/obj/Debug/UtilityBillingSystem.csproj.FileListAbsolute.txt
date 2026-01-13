@@ -1,0 +1,8 @@
+C:\practice_sessions\UtilityBillingSystem\UtilityBillingSystem\bin\Debug\UtilityBillingSystem.exe.config
+C:\practice_sessions\UtilityBillingSystem\UtilityBillingSystem\bin\Debug\UtilityBillingSystem.exe
+C:\practice_sessions\UtilityBillingSystem\UtilityBillingSystem\bin\Debug\UtilityBillingSystem.pdb
+C:\practice_sessions\UtilityBillingSystem\UtilityBillingSystem\obj\Debug\UtilityBillingSystem.csproj.AssemblyReference.cache
+C:\practice_sessions\UtilityBillingSystem\UtilityBillingSystem\obj\Debug\UtilityBillingSystem.csproj.CoreCompileInputs.cache
+C:\practice_sessions\UtilityBillingSystem\UtilityBillingSystem\obj\Debug\UtilityBillingSystem.exe
+C:\practice_sessions\UtilityBillingSystem\UtilityBillingSystem\obj\Debug\UtilityBillingSystem.pdb
+C:\practice_sessions\UtilityBillingSystem\UtilityBillingSystem\obj\Debug\UtilityBillingSystem.exe.config

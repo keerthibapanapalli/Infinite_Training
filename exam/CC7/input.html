@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Multiply and Divide</title>
+</head>
+<body>
+  <h2>sample form</h2>
+
+  <label>
+    1st number:
+    <input type="number" id="num1">
+  </label>
+  <br><br>
+  <label>
+    2nd number:
+    <input type="number" id="num2" >
+  </label>
+  <br><br>
+
+  <button id="multiplyBtn">Multiply</button>
+  <button id="divideBtn">Divide</button>
+
+  <p id="result">Result: </p>
+
+  <script>
+    const num1El = document.getElementById('num1');
+    const num2El = document.getElementById('num2');
+    const mulResultEl = document.getElementById('result');
+    const divResultEl = document.getElementById('result');
+
+    document.getElementById('multiplyBtn').addEventListener('click', () => {
+      const n1 = parseFloat(num1El.value);
+      const n2 = parseFloat(num2El.value);
+
+      if (Number.isNaN(n1) || Number.isNaN(n2)) {
+        alert('Please enter valid numbers');
+        return;
+      }
+
+      mulResultEl.textContent = `the result is: ${n1 * n2}`;
+    });
+
+    document.getElementById('divideBtn').addEventListener('click', () => {
+      const n1 = parseFloat(num1El.value);
+      const n2 = parseFloat(num2El.value);
+
+      if (Number.isNaN(n1) || Number.isNaN(n2)) {
+        alert('Please enter valid numbers');
+        return;
+      }
+
+      divResultEl.textContent = n2 === 0
+        ? 'the result is: Cannot divide by zero'
+        : `the result is: ${n1 / n2}`;
+    });
+  </script>
+</body>
+</html>
+
