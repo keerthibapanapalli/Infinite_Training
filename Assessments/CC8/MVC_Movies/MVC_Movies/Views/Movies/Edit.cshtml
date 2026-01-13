@@ -1,0 +1,28 @@
+﻿@model MVC_Movies.Models.Movie
+
+<h2>Edit Movie</h2>
+
+@using (Html.BeginForm())
+
+{
+
+    @Html.HiddenFor(m => m.Mid)
+
+    <div class="form-group">
+        <label>Movie Name</label>
+
+        @Html.TextBoxFor(m => m.Moviename, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Director</label>
+
+        @Html.TextBoxFor(m => m.DirectorName, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Date of Release</label>
+
+        @Html.TextBoxFor(m => m.DateofRelease, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date" })
+    </div>
+    <button type="submit" class="btn btn-primary">Update</button>
+
+}

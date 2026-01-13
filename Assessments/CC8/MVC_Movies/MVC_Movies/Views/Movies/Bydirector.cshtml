@@ -1,0 +1,13 @@
+﻿
+@model MVC_Movies.Models.Movie
+
+<h2>Delete Movie</h2>
+<p>Are you sure you want to delete <strong>@Model.Moviename</strong>?</p>
+
+@using (Html.BeginForm("Delete", "Movies", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(m => m.Mid)
+    <button type="submit">Delete</button>
+    @Html.ActionLink("Cancel", "Index")
+}
