@@ -1,0 +1,23 @@
+﻿@model IEnumerable<MVCApplication_Assessment.Models.Customer>
+ 
+<h2>Customers in Germany</h2>
+ 
+<table border="1" cellpadding="5">
+<tr>
+<th>Customer ID</th>
+<th>Company Name</th>
+<th>Contact Name</th>
+<th>City</th>
+<th>Country</th>
+</tr>
+    @foreach (var c in Model)
+    {
+<tr>
+<td>@c.CustomerID</td>
+<td>@c.CompanyName</td>
+<td>@c.ContactName</td>
+<td>@c.City</td>
+<td>@c.Country</td>
+</tr>
+    }
+</table>

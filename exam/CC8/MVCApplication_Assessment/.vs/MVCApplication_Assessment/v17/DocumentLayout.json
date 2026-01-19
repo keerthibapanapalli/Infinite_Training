@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keerthib\\Desktop\\infinite\\exam\\CC8\\MVCApplication_Assessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E70A659-9F63-4FA9-9A78-06290185BD9F}|MVCApplication_Assessment.csproj|c:\\users\\keerthib\\desktop\\infinite\\exam\\cc8\\mvcapplication_assessment\\views\\code\\customersingermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E70A659-9F63-4FA9-9A78-06290185BD9F}|MVCApplication_Assessment.csproj|solutionrelative:views\\code\\customersingermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E70A659-9F63-4FA9-9A78-06290185BD9F}|MVCApplication_Assessment.csproj|c:\\users\\keerthib\\desktop\\infinite\\exam\\cc8\\mvcapplication_assessment\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E70A659-9F63-4FA9-9A78-06290185BD9F}|MVCApplication_Assessment.csproj|solutionrelative:views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E70A659-9F63-4FA9-9A78-06290185BD9F}|MVCApplication_Assessment.csproj|c:\\users\\keerthib\\desktop\\infinite\\exam\\cc8\\mvcapplication_assessment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E70A659-9F63-4FA9-9A78-06290185BD9F}|MVCApplication_Assessment.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E70A659-9F63-4FA9-9A78-06290185BD9F}|MVCApplication_Assessment.csproj|c:\\users\\keerthib\\desktop\\infinite\\exam\\cc8\\mvcapplication_assessment\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E70A659-9F63-4FA9-9A78-06290185BD9F}|MVCApplication_Assessment.csproj|solutionrelative:controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E70A659-9F63-4FA9-9A78-06290185BD9F}|MVCApplication_Assessment.csproj|c:\\users\\keerthib\\desktop\\infinite\\exam\\cc8\\mvcapplication_assessment\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7E70A659-9F63-4FA9-9A78-06290185BD9F}|MVCApplication_Assessment.csproj|solutionrelative:models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerByOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\keerthib\\Desktop\\infinite\\exam\\CC8\\MVCApplication_Assessment\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeDocumentMoniker": "Views\\Code\\CustomerByOrder.cshtml",
+              "ToolTip": "C:\\Users\\keerthib\\Desktop\\infinite\\exam\\CC8\\MVCApplication_Assessment\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeToolTip": "Views\\Code\\CustomerByOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T04:45:20.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersInGermany.cshtml",
+              "DocumentMoniker": "C:\\Users\\keerthib\\Desktop\\infinite\\exam\\CC8\\MVCApplication_Assessment\\Views\\Code\\CustomersInGermany.cshtml",
+              "RelativeDocumentMoniker": "Views\\Code\\CustomersInGermany.cshtml",
+              "ToolTip": "C:\\Users\\keerthib\\Desktop\\infinite\\exam\\CC8\\MVCApplication_Assessment\\Views\\Code\\CustomersInGermany.cshtml",
+              "RelativeToolTip": "Views\\Code\\CustomersInGermany.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T04:43:57.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\keerthib\\Desktop\\infinite\\exam\\CC8\\MVCApplication_Assessment\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\keerthib\\Desktop\\infinite\\exam\\CC8\\MVCApplication_Assessment\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-01-19T04:42:06.493Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\keerthib\\Desktop\\infinite\\exam\\CC8\\MVCApplication_Assessment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\keerthib\\Desktop\\infinite\\exam\\CC8\\MVCApplication_Assessment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T04:30:32.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\Users\\keerthib\\Desktop\\infinite\\exam\\CC8\\MVCApplication_Assessment\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CodeController.cs",
+              "ToolTip": "C:\\Users\\keerthib\\Desktop\\infinite\\exam\\CC8\\MVCApplication_Assessment\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "Controllers\\CodeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T04:29:40.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

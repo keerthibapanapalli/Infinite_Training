@@ -1,0 +1,14 @@
+﻿@model MVCApplication_Assessment.Models.Customer
+<h2>Customer Details for Order 10248</h2>
+
+@if (Model != null)
+{
+    <p><strong>Customer ID:</strong> @Model.CustomerID</p>
+    <p><strong>Company Name:</strong> @Model.CompanyName</p>
+    <p><strong>Contact Name:</strong> @Model.ContactName</p>
+    <p><strong>Country:</strong> @Model.Country</p>
+}
+else
+{
+    <p>No customer found </p>
+}
