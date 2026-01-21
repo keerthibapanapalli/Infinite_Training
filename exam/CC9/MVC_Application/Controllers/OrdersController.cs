@@ -14,7 +14,7 @@ public class OrdersController : Controller
 
         using (HttpClient client = new HttpClient())
         {
-            client.BaseAddress = new System.Uri("http://localhost:44358/");
+            client.BaseAddress = new System.Uri("http://localhost:44335/");
             var response = await client.GetAsync("api/orders/employee/5");
 
             var json = await response.Content.ReadAsStringAsync();

@@ -95,6 +95,15 @@ namespace WebApiAssessment2.Models
             return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<Employee_Sales_by_Country_Result>("Employee_Sales_by_Country", beginning_DateParameter, ending_DateParameter);
         }
     
+        public virtual ObjectResult<GetCustomersByCountry_Result> GetCustomersByCountry(string country)
+        {
+            var countryParameter = country != null ?
+                new ObjectParameter("Country", country) :
+                new ObjectParameter("Country", typeof(string));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<GetCustomersByCountry_Result>("GetCustomersByCountry", countryParameter);
+        }
+    
         public virtual ObjectResult<Sales_by_Year_Result> Sales_by_Year(Nullable<System.DateTime> beginning_Date, Nullable<System.DateTime> ending_Date)
         {
             var beginning_DateParameter = beginning_Date.HasValue ?
