@@ -1,0 +1,2 @@
+C:\Users\keerthib\Desktop\infinite\exam\CC9\WebApiAssessment2\obj\Debug\WebApiAssessment2.csproj.AssemblyReference.cache
+C:\Users\keerthib\Desktop\infinite\exam\CC9\WebApiAssessment2\obj\Debug\WebApiAssessment2.csproj.CoreCompileInputs.cache
