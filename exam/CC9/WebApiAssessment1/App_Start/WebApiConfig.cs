@@ -10,7 +10,14 @@ namespace WebApiAssessment1
 
         public static void Register(HttpConfiguration config)
         {
-            config.MapHttpAttributeRoutes(); 
+            config.MapHttpAttributeRoutes();
+
+            config.Routes.MapHttpRoute(
+                           name: "CountriesApi",
+                           routeTemplate: "api/countries/{id}",
+                           defaults: new { controller = "Country", id = RouteParameter.Optional }
+                       );
+
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",

@@ -6,8 +6,6 @@ using System.ComponentModel.DataAnnotations;
 
 namespace WebApiAssessment1.Models
 {
-
-
     public class Country
     {
         public int ID { get; set; }
